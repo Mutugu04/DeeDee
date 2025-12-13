@@ -1,0 +1,8 @@
+{
+  "name": "DeeDee's Magic Kitchen",
+  "description": "A creative cooking companion for DeeDee to turn left-overs into gourmet sweet, sour, or salty treats using AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
